@@ -37,3 +37,44 @@
 ---
 
 ## [ffmpeg 설치](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+
+
+# 📑 Sync-Matrix-Package
+
+This program combines unique **3D spatial distortion matrix** with encryption algorithms to securely package and restore file and media data.
+
+---
+
+## ✨ Key Features and Features
+
+- **3D Geometric Coordinate Encryption:** Beyond simple text pass-by (password) verification, it provides multi-layer security that allows data to be restored only when the unique 3D spatial rotation angle (Pitch, Yaw) applied during encryption is fully matched.
+- **Secure file encoding:** Securely converts key documents, videos, and common data files into proprietary security structure format files to prevent external exposure.
+- **Real-time Anti-Debug:** If you detect memory tampering or reverse engineering attempts by an external unauthorized process during execution, you immediately block the operation and terminate the process to protect your system and encryption key data.
+- **Hardware Acceleration Auto-Mapping:** Analyze your PC environment to automatically link hardware acceleration encoding (NVIDIA NVENC, Intel QSV, etc.) to optimal efficiency.
+
+---
+
+## 🚀 How to use it
+
+Running the program allows you to control the features through the two tabs at the top.
+
+### 1. File encryption (video compression)
+> **Step of encoding critical original files into a unique security package.**.
+
+1. Click the **[Video Encoder]** tab in the top menu.
+2. Bring the file (video or regular file) you want to encrypt to the drop area in the center of the screen **drag & drop** or by the Find File button.
+3. Set a secure **Master Passkey** to protect your data and fill in the entry box.
+4. **[Run Encryption Package Process]** Click the button to initiate the conversion and, upon completion, create an encrypted unique security package file (.mp) in the path where the original file is located.
+
+### 2. Decrypt package (file restoration)
+> **Steps to safely restore encrypted package files back to their original state.**.
+
+1. Click the **[Package Decoder]** tab in the top menu.
+2. **[Open Secure Package]** Press the button to select the unique security package file (.smp) to restore.
+3. Enter the exact **Decryption Passkey** that was set during encryption.
+4. Mouse-click and drag the **3D viewport space** in the center of the screen, adjusting the alignment (Pitch/Yaw angle) to achieve perfect center balance.
+5. If the password and 3D matrix angle alignment match perfectly, click the **[Decode Package & Restore Video]** button at the bottom to recover the original file safely.
+
+---
+
+## [Install ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
