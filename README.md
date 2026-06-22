@@ -35,3 +35,5 @@
 5. 비밀번호와 3D 매트릭스 각도 정렬이 완벽히 일치하면, 하단의 **[Decode Package & Restore Video]** 버튼을 클릭하여 안전하게 원본 파일을 복구합니다.
  
 ---
+
+## [ffmpeg 설치](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
