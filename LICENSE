@@ -1,21 +1,25 @@
-MIT License
+Proprietary & End-User License Agreement for Sync-Matrix-Package
 
-Copyright (c) 2026 USD
+Copyright (c) 2026 USD. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Section 1 (Purpose & Definition)
+This End-User License Agreement ("EULA") is a legal agreement between the copyright holder 'USD' ("Licensor") and you ("User") for the use of the desktop application 'Sync-Matrix-Package', its source code, binaries, and the proprietary '.smp' file format specification featuring a 3D spatial distortion matrix (collectively, the "Software").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Section 2 (Strict Prohibitions of Misuse & Illegal Encoding)
+The User is strictly prohibited from using the [Video Encoder] and [Package Decoder] features of the Software for any of the following activities. Any violation will result in the immediate and automatic revocation of this license:
+1. Capturing, indexing, or encoding third-party copyrighted materials (including but not limited to YouTube videos, streams) into .smp packages without the original right holder's consent, or violating the Terms of Service (ToS) of third-party platforms.
+2. Packaging, restoring, or distributing data (including texts, images, or QR codes) that facilitates, induces, or directs traffic to illegal gambling, adult content, illicit drug trafficking, malware distribution, or Dark Web (Tor/.onion) networks.
+3. Exploiting the Software's encryption/decryption pipeline for any digital crime or malicious purpose violating domestic and international laws.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Section 3 (Prohibition of Reverse Engineering & Anti-Circumvention)
+1. The Software is embedded with advanced technical protection measures, including real-time anti-debugging, obfuscation, and binary packing to prevent unauthorized reverse engineering and memory tampering.
+2. The User shall not reverse engineer, decompile, disassemble, dump memory, or crack the Software under any circumstances.
+3. Any unauthorized analysis, tampering, falsification, or replication of the internal structure of the .smp file format and its 3D geometric coordinate mapping logic is strictly prohibited and subject to criminal prosecution under applicable cybersecurity laws.
+
+Section 4 (Disclaimer of Warranties & Limitation of Liability)
+1. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+2. THE SOFTWARE SOLELY PERFORMS DATA CONVERSION AND RESTORATION BASED ON USER-INPUT PASSOKEYS AND THE ALIGNMENT OF THE 3D VIEWPORT ROTATION ANGLES (PITCH, YAW). THE LICENSOR DOES NOT PRE-SCREEN, MONITOR, OR CONTROL ANY CONTENT (INCLUDING VIDEOS, DOCUMENTS, QR CODES, OR DESTINATION URLS) PACKAGED INSIDE THE .SMP FILE BY USERS.
+3. THE LICENSOR SHALL NOT BE HELD LIABLE FOR ANY LEGAL DISPUTES, PLATFORM BANS, INFRINGEMENTS, OR DAMAGES ARISING FROM THE USER'S MALICIOUS USE OR TAMPERING OF THE SOFTWARE. ALL LIABILITIES SOLELY BELONG TO THE END-USER.
+
+Section 5 (Jurisdiction)
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of Korea, and any disputes shall be subject to the exclusive jurisdiction of the court corresponding to the Licensor's residence.
