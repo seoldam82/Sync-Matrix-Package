@@ -6,7 +6,7 @@ Section 1 (Purpose & Definition)
 This End-User License Agreement ("EULA") is a legal agreement between the copyright holder 'USD' ("Licensor") and you ("User") for the use of the desktop application 'Sync-Matrix-Package', its source code, binaries, and the proprietary '.smp' file format specification featuring a 3D spatial distortion matrix (collectively, the "Software").
 
 Section 2 (Strict Prohibitions of Misuse & Illegal Encoding)
-The User is strictly prohibited from using the [Video Encoder] and [Package Decoder] features of the Software for any of the following activities. Any violation will result in the immediate and automatic revocation of this license:
+The User is strictly prohibited from using the [Package Encoder] and [Package Decoder] features of the Software for any of the following activities. Any violation will result in the immediate and automatic revocation of this license:
 1. Capturing, indexing, or encoding third-party copyrighted materials (including but not limited to YouTube videos, streams) into .smp packages without the original right holder's consent, or violating the Terms of Service (ToS) of third-party platforms.
 2. Packaging, restoring, or distributing data (including texts, images, or QR codes) that facilitates, induces, or directs traffic to illegal gambling, adult content, illicit drug trafficking, malware distribution, or Dark Web (Tor/.onion) networks.
 3. Exploiting the Software's encryption/decryption pipeline for any digital crime or malicious purpose violating domestic and international laws.
